@@ -1,0 +1,22 @@
+ 
+.content {
+	width: 1000px;
+	margin-left: 200px;
+	height: 300px;
+}
+.row1{
+	width: 500px;
+	height: 100%;
+ 
+	float: left;
+}
+.row2 {
+	float: left;
+	width: 500px;
+	height: 100%;
+
+}
+
+.clear {
+	clear: both;
+}
